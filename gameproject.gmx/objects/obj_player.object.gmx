@@ -50,16 +50,7 @@ vsp = 4;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//keyboard input
-left = keyboard_check(ord('a'));
-right = keyboard_check(ord('d'));
-jump = keyboard_check(vk_space);
-
-//Movement
-if left {
-hspeed = hsp
-}
-</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
